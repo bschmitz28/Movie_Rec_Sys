@@ -1,6 +1,6 @@
 # Movie_Rec_Sys
 
-Project name: Movie Recommendation System
+Movie Recommendation System
 Methods used for the project: K-Means Clustering & Collaborative Filtering.
 
 Description: K-Means clustering was used to find different groups of users based on the rating scores and genres from movie dataset. Collaborative Filtering was used to find the similarity between user to an active user to predict a rating score for an unseen movie.
@@ -35,3 +35,5 @@ Two main functions in the notebook can be found at line 116 and 149.
 
 *The function final_recommendation_system(userId) is used for getting a list of recommended movies to a user with the input is userId (int).<br />
 *The function predict_rating(id_user, movieId) is used for getting a predicted rating score for an unseen movie with the input userId(int) and movieId(int).
+
+I have included the README.txt for the Movielens 100k dataset.

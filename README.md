@@ -36,4 +36,4 @@ Two main functions in the notebook can be found at line 116 and 149.
 *The function final_recommendation_system(userId) is used for getting a list of recommended movies to a user with the input is userId (int).<br />
 *The function predict_rating(id_user, movieId) is used for getting a predicted rating score for an unseen movie with the input userId(int) and movieId(int).
 
-I have included the README.txt for the Movielens 100k dataset.
+I have included the README.txt for the Movielens 100k dataset as well as the Project Report, and slide deck used for the presentation.
